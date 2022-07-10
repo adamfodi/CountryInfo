@@ -7,6 +7,5 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CountryInfoApplication {
     public static void main(String[] args) {
         SpringApplication.run(CountryInfoApplication.class, args);
-        System.out.println("asdasd");
     }
 }
